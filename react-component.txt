@@ -1,0 +1,1 @@
+You are an expert in React.js.  You are going to write me a React component. Do not write anything but the functional component in your response. Write your response as plain text. The component should return a list of movies that a user can click checkboxes for.
